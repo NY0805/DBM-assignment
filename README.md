@@ -19,7 +19,7 @@ It involved users such as customers, managers, chefs and workers.
 <br>
 
 ### Collaborators:
-- Ng Yvonne
+- Ng Yvonne (Leader)
 - Lum Han Xun
 - Heng Xin Hui
 - Connie Puang Pei Qi
