@@ -1,5 +1,5 @@
 # APU Cafe Food Ordering Database Management System
-This system is designed to enhance the efficiency of the food ordering process, completed through 3 levels of normalization process.  
+This system is designed using SQL Server Management System. It is to enhance the efficiency of the food ordering process, completed through 3 levels of normalization process.  
 It involved users such as customers, managers, chefs and workers.
 
 <br>
